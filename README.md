@@ -1,4 +1,4 @@
-# Hey there!
+## Hey there!
 
 I'm E. Just E. I'm a technical writer and information developer. I morphed into this career by way of building NT servers in the early '90s to building networks, supporting software integrations, and migrating enterprise databases.
 
